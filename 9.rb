@@ -1,4 +1,4 @@
-puts 'what the hell'
+puts "what the hell"
 def double_this num
 	num_times_2 = num*2
 	puts num.to_s+' doubled is '+num_times_2.to_s
